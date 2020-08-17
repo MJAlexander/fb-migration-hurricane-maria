@@ -1,6 +1,6 @@
 # The Impact of Hurricane Maria on Out‐migration from Puerto Rico: Evidence from Facebook Data
 
-Code and data for our paper on measuring migration out of Puerto Rico following Hurrican Maria.
+Code and data for our paper on measuring migration out of Puerto Rico following Hurrican Maria. Citation:
 
 > Alexander, M., Polimis, K. and Zagheni, E. (2019), The Impact of Hurricane Maria on Out‐migration from Puerto Rico: Evidence from Facebook Data. Population and Development Review, 45: 617-630. doi:10.1111/padr.12289
 
